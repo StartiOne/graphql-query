@@ -1,5 +1,5 @@
 {
-    "name": "starti/graphql-query",
+    "name": "rdx/graphql-query",
     "version": "1.0.1",
     "description": "Builds GraphQL queries",
     "type": "library",
