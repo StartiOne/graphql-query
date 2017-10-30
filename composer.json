@@ -1,5 +1,5 @@
 {
-    "name": "rdx/graphql-query",
+    "name": "starti/graphql-query",
     "description": "Builds GraphQL queries",
     "type": "library",
     "license": "MIT",
@@ -9,7 +9,6 @@
             "email": "github@hotblocks.nl"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": { "rdx\\graphqlquery\\": "src" }
     }
