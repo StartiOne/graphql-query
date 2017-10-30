@@ -10,7 +10,6 @@
             "email": "github@hotblocks.nl"
         }
     ],
-    "minimum-stability": "stable",
     "autoload": {
         "psr-4": { "rdx\\graphqlquery\\": "src" }
     }
